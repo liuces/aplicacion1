@@ -1,2 +1,2 @@
 # aplicacion1
-aplicacion movil de comida
+aplicacion movil de delivery
